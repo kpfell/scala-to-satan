@@ -31,10 +31,8 @@ function handleText(textNode)
 {
     var v = textNode.nodeValue;
 
-    v = v.replace(/\bBig Data\b/g, "Hail Satan");
-    v = v.replace(/\bBig data\b/g, "Hail satan");
-    v = v.replace(/\bbig Data\b/g, "hail Satan");
-    v = v.replace(/\bbig data\b/g, "hail satan");
+    v = v.replace(/\bHadoop\b/g, "Satan");
+    v = v.replace(/\bhadoop\b/g, "satan");
 
     textNode.nodeValue = v;
 }

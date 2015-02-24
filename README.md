@@ -1,4 +1,4 @@
-big-data-to-hail-satan
+hadoop-to-satan
 =============
 
-Chrome extension that replaces occurrences of 'big data' with 'hail satan'
+Chrome extension that replaces occurrences of 'hadoop' with 'satan'

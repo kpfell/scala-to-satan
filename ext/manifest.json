@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Big Data to Hail Satan",
+    "name": "Hadoop to Satan",
     "version": "1.0",
-    "description": "Replaces the text 'big data' with 'hail satan'.",
+    "description": "Replaces the text 'hadoop' with 'satan'.",
     "content_scripts":
     [
         {
