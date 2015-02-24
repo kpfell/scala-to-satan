@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Big Data to Hail Satan",
+    "version": "1.0",
+    "description": "Replaces the text 'big data' with 'hail satan'.",
+    "content_scripts":
+    [
+        {
+            "matches": ["*://*/*"],
+            "js": ["content_script.js"],
+            "run_at": "document_end"
+        }
+    ]
+}
