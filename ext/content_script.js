@@ -31,8 +31,8 @@ function handleText(textNode)
 {
     var v = textNode.nodeValue;
 
-    v = v.replace(/\bHadoop\b/g, "Satan");
-    v = v.replace(/\bhadoop\b/g, "satan");
+    v = v.replace(/\bScala\b/g, "Satan");
+    v = v.replace(/\bscala\b/g, "satan");
 
     textNode.nodeValue = v;
 }

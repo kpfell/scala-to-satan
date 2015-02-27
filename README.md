@@ -1,4 +1,4 @@
-hadoop-to-satan
+scala-to-satan
 =============
 
-Chrome extension that replaces occurrences of 'hadoop' with 'satan'
+Chrome extension that replaces occurrences of 'scala' with 'satan'

@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Hadoop to Satan",
+    "name": "Scala to Satan",
     "version": "1.0",
-    "description": "Replaces the text 'hadoop' with 'satan'.",
+    "description": "Replaces the text 'scala' with 'satan'.",
     "content_scripts":
     [
         {
